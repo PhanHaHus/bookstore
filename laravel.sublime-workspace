@@ -1,0 +1,378 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mi",
+				"mimes"
+			],
+			[
+				"e",
+				"enctype	Attr"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"a",
+				"auth"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pri",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/app",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/app/Http",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/app/Http/Controllers",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/app/Http/Requests",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/resources/views",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/resources/views/admin",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/resources/views/admin/blocks",
+		"/D/wamp/www/fw_laravel/blog-laptrinh",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/app",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/app/Http",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/app/Http/Controllers",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/app/Http/Requests",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/resources/views",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/resources/views/auth"
+	],
+	"file_history":
+	[
+		"/D/wamp/www/fw_laravel/blog-laptrinh/app/Http/routes.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/app/Http/Controllers/UploadController.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/app/Http/Requests/UploadRequest.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/resources/views/backend/upload/upload.blade.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/app/Http/Controllers/Auth/AuthController.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/config/session.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/config/app.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/app/User.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/config/auth.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/.htaccess",
+		"/D/wamp/www/fw_laravel/books-laravel/admin/index.html",
+		"/E/15.TEMPLATES HTML/thems admin/AdminLTE-master/pages/charts/morris.html",
+		"/E/15.TEMPLATES HTML/thems admin/AdminLTE-master/index.html",
+		"/E/15.TEMPLATES HTML/thems admin/AdminLTE-master/index2.html",
+		"/D/wamp/www/fw_laravel/books-laravel/admin/pages/widgets.html",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/app/Http/routes.php",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/app/Http/Controllers/ProductContoller.php",
+		"/D/wamp/www/fw_laravel/linhkien_laravel/resources/views/templates/v_layout_trang_chu_admin.blade.php",
+		"/D/wamp/www/fw_laravel/linhkien_laravel/resources/views/widgets_admin/w_menu_admin.blade.php",
+		"/D/wamp/www/fw_laravel/linhkien_laravel/app/Http/Controllers/admin_controller.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/resources/views/auth/login.blade.php",
+		"/D/wamp/www/fw_laravel/linhkien_laravel/resources/views/widgets_admin/w_header_admin.blade.php",
+		"/D/wamp/www/fw_laravel/linhkien_laravel/resources/views/widgets_admin/w_head_admin.blade.php",
+		"/D/wamp/www/fw_laravel/linhkien_laravel/resources/views/admin/v_login_admin.blade.php",
+		"/D/wamp/www/fw_laravel/linhkien_laravel/resources/views/admin/v_trang_chu_admin.blade.php",
+		"/D/wamp/www/fw_laravel/blog-laptrinh/.env",
+		"/D/wamp/www/fw_laravel/books-laravel/ic_category.php",
+		"/D/wamp/www/fw_laravel/books-laravel/category.php",
+		"/D/wamp/www/fw_laravel/books-laravel/chi-tiet-san-pham.php",
+		"/D/wamp/www/fw_laravel/books-laravel/index.php",
+		"/D/wamp/www/fw_laravel/books-laravel/index-2.php",
+		"/D/wamp/www/fw_laravel/books-laravel/css/style.css",
+		"/D/wamp/www/fw_laravel/books-laravel/ban-chay2.php",
+		"/D/wamp/www/fw_laravel/books-laravel/ban-chay.php",
+		"/D/wamp/www/fw_laravel/books-laravel/index.html",
+		"/D/wamp/www/fw_laravel/books-laravel/menu-reponsive.php",
+		"/D/wamp/www/fw_laravel/books-laravel/san-pham.php",
+		"/D/wamp/www/fw_laravel/books-laravel/01-giam-gia.php",
+		"/D/wamp/www/fw_laravel/books-laravel/news-pr.php",
+		"/D/wamp/www/fw_laravel/books-laravel/header.php",
+		"/D/wamp/www/fw_laravel/books-laravel/banner.php",
+		"/D/wamp/www/fw_laravel/books-laravel/footer.php",
+		"/D/wamp/www/fw_laravel/books-laravel/nhan-mail.php",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/resources/views/user/master.blade.php",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/app/Http/Controllers/WelcomeController.php",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/resources/views/user/pages/home.blade.php",
+		"/C/xampp/htdocs/snipe-it-2.1.0/app/config/local/database.example.php",
+		"/D/wamp/www/fw_laravel/snipe-it-2.1.0/public/index.php",
+		"/D/wamp/www/fw_laravel/snipe-it-2.1.0/bootstrap/autoload.php",
+		"/D/wamp/www/shop_thoitrang2/templates/categorys/category.php",
+		"/C/Users/danhmatcuoctinh/Desktop/chatnodejs/server.js",
+		"/C/Users/danhmatcuoctinh/Desktop/chatnodejs/index.html",
+		"/C/Users/danhmatcuoctinh/Desktop/CMS-development/config/database.js",
+		"/C/Users/danhmatcuoctinh/Desktop/CMS-development/config/config.js",
+		"/D/wamp/www/shop_thoitrang2/administrator/templates/products/danhgia.php",
+		"/C/Users/danhmatcuoctinh/Desktop/snipe-it-2.1.0/app/routes.php",
+		"/D/wamp/www/shop_thoitrang2/templates/carts/send_orders.php",
+		"/C/Users/danhmatcuoctinh/Desktop/snipe-it-2.1.0/app/controllers/BaseController.php",
+		"/C/Users/danhmatcuoctinh/Desktop/snipe-it-2.1.0/app/controllers/AuthorizedController.php",
+		"/C/Users/danhmatcuoctinh/Desktop/snipe-it-2.1.0/app/controllers/admin/AccessoriesController.php",
+		"/C/Users/danhmatcuoctinh/Desktop/snipe-it-2.1.0/app/config/app.php",
+		"/C/Users/danhmatcuoctinh/Desktop/snipe-it-2.1.0/app/controllers/HomeController.php",
+		"/C/Users/danhmatcuoctinh/Desktop/CMS-development/widgets/search/views/default.twig",
+		"/D/wamp/www/shop_thoitrang2/templates/products/product-detail.php",
+		"/C/Users/danhmatcuoctinh/Desktop/facebook.nodejs/Server/node_modules/socket.io/node_modules/socket.io-adapter/index.js",
+		"/E/15.TEMPLATES HTML/thems admin/ace-v1.2--bs-v3.0.0/index.html",
+		"/D/nodejs/app.js",
+		"/D/wamp/www/fw_laravel/thoitrang_laravel/resources/views/admin/login.blade.php",
+		"/D/wamp/www/fw_laravel/linhkien_laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/D/wamp/www/fw_laravel/linhkien_laravel/vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php",
+		"/C/Users/danhmatcuoctinh/Desktop/zend/3UINE58G.txt",
+		"/C/xampp/htdocs/project_laravel/resources/views/admin/product/edit.blade.php",
+		"/C/xampp/htdocs/project_laravel/app/Http/routes.php",
+		"/D/wamp/www/shop_thoitrang2/administrator/templates/products/edit_product.php",
+		"/C/xampp/htdocs/project_laravel/app/Http/Controllers/ProductContoller.php",
+		"/C/xampp/htdocs/project_laravel/public/admin/js/myscript.js",
+		"/C/xampp/htdocs/project_laravel/resources/views/admin/product/list.blade.php",
+		"/C/xampp/htdocs/project_laravel/resources/views/admin/product/add.blade.php",
+		"/C/xampp/htdocs/linhkien_laravel/app/Http/Controllers/pages_controller.php",
+		"/C/xampp/htdocs/linhkien_laravel/app/Http/Controllers/admin_controller.php",
+		"/C/xampp/htdocs/linhkien_laravel/resources/views/admin/v_ds_hoa_don_admin.blade.php",
+		"/C/xampp/htdocs/linhkien_laravel/resources/views/admin/v_them_sp_admin.blade.php",
+		"/C/xampp/htdocs/linhkien_laravel/app/Http/Controllers/helper_controller.php",
+		"/C/xampp/htdocs/linhkien_laravel/app/Http/Middleware/VerifyCsrfToken.php",
+		"/C/xampp/htdocs/project_laravel/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/linhkien_laravel/app/Http/routes.php",
+		"/D/wamp/www/shop_thoitrang2/administrator/templates/products/add_product.php",
+		"/D/wamp/www/shop_thoitrang2/public/index.html",
+		"/C/Users/danhmatcuoctinh/Desktop/LoginFacebookP1/LoginFacebookP1Tests/LoginFacebookP1Tests.swift",
+		"/D/wamp/www/shop_thoitrang2/.htaccess",
+		"/D/wamp/www/shop_thoitrang2/header.php",
+		"/D/wamp/www/shop_thoitrang2/robot.txt",
+		"/D/wamp/www/shop_thoitrang2/administrator/.htaccess",
+		"/D/wamp/www/shop_thoitrang2/footer.php",
+		"/D/wamp/www/TONGHOP_PHPMySQL/upload-ha/upload-nhieuanh.php",
+		"/C/xampp/htdocs/linhkien_laravel/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/project_laravel/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/project_laravel/resources/views/admin/login.blade.php",
+		"/C/xampp/htdocs/project_laravel/app/User.php",
+		"/C/xampp/htdocs/project_laravel/config/auth.php",
+		"/C/xampp/htdocs/project_laravel/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/project_laravel/.htaccess",
+		"/C/xampp/htdocs/project_laravel/app/Http/Controllers/Auth/PasswordController.php",
+		"/C/Users/danhmatcuoctinh/Desktop/asp.net mvc5/MultiShop/Areas/Admin/Controllers/HomeController.cs",
+		"/D/wamp/www/shop_thoi_trang/.htaccess",
+		"/C/Users/danhmatcuoctinh/Desktop/themeforest/ht-umag/framework/functions/functions.php",
+		"/C/Users/danhmatcuoctinh/Desktop/themeforest/ht-umag/style.css",
+		"/C/Users/danhmatcuoctinh/Desktop/themeforest-11953453-umag-responsive-wordpress-news-magazine-theme/ht-umag/functions.php",
+		"/C/xampp/htdocs/MVCPHP/application/models/News.php",
+		"/C/xampp/htdocs/MVCPHP/application/controllers/IndexController.php",
+		"/C/xampp/htdocs/laravel-shop/app/Http/routes.php",
+		"/C/xampp/htdocs/MVCPHP/library/main/Model.php",
+		"/C/xampp/htdocs/laravel-shop/index.php",
+		"/C/xampp/htdocs/shop_laravel/bootstrap/app.php",
+		"/C/xampp/htdocs/__DIR__/index.php",
+		"/C/xampp/htdocs/shop_laravel/config/app.php",
+		"/C/xampp/htdocs/shop_laravel/bootstrap/autoload.php",
+		"/C/xampp/htdocs/project_laravel/config/mail.php",
+		"/D/php_zend/php/xử lý hình ảnh với PHP Thumb/ch06-01-phpthumb/06.php",
+		"/D/php_zend/zend framework 2.0/Chuong-02_Lap-Trinh-Huong-Doi-Tuong-Chuyen-Sau/004-__call-&-__callstatic/Full Source/ch02-04-08-oop-advanced/08-namespace/Zend/Obj/Student.php",
+		"/D/php_zend/zend framework 2.0/Chuong-02_Lap-Trinh-Huong-Doi-Tuong-Chuyen-Sau/004-__call-&-__callstatic/Full Source/ch02-04-08-oop-advanced/08-namespace/Magento/Lib/Student.php",
+		"/D/php_zend/zend framework 2.0/Chuong-02_Lap-Trinh-Huong-Doi-Tuong-Chuyen-Sau/004-__call-&-__callstatic/Full Source/ch02-04-08-oop-advanced/08-namespace/08.php",
+		"/C/xampp/htdocs/web_shop_ban_hang/app/Http/Controllers/admin_controller.php",
+		"/C/xampp/htdocs/project_laravel/resources/views/admin/master.blade.php",
+		"/C/Users/danhmatcuoctinh/Desktop/do_an_web/biz web/bizshop/css/FontAwesome/less/rotated-flipped.less",
+		"/C/xampp/htdocs/project_laravel/vendor/symfony/routing/Symfony/Component/Routing/RequestContext.php",
+		"/C/xampp/htdocs/project_laravel/app/Http/Controllers/WelcomeController.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"info-box bg-aqua",
+			"box box-primary",
+			"ui-sortable",
+			"connectedSortable ui-sortable",
+			"col-lg-7 connectedSortable ui-sortable",
+			"box box-info",
+			"#da5b1f",
+			"#f26522",
+			"#000000",
+			"#f26522",
+			"#3c8dbc",
+			"images/fc-control.png",
+			"fc-control.png",
+			"//bizweb.dktcdn.net/100/047/782/themes/61351/assets/",
+			"?1453369640685",
+			"?1453369640685\"",
+			" alt=\"\"",
+			"images/icon-sprites.png",
+			"icon-sprites.png",
+			"“",
+			"”",
+			"‘",
+			"’"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#000000",
+			"#da5b1f",
+			"#f26522",
+			"#3c8dbc",
+			"../images/fc-control.png",
+			"images/fc-control.png",
+			"images/",
+			"",
+			"../images/icon-sprites.png",
+			"images/icon-sprites.png"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravel.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
