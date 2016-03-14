@@ -6,6 +6,10 @@ body {
     font-size: 13px;
     background-color: #F7F5F5;
     color: #898989;
+    background-image: url('../../upload/logoweb/body.jpg');
+    background-repeat: repeat;
+    background-position: top center;
+    background-attachment: scroll;
 }
 ul {
     list-style: none;
@@ -28,7 +32,7 @@ a:focus {
 	text-align:center;
 }
 #yt-totop {
-    background:url(../../images/up-arrow.png) no-repeat scroll center center #333333;
+    background:url(../../upload/up.png) no-repeat scroll center center #333333;
     bottom: 30px;
     height: 45px;
     overflow: hidden;
@@ -1572,4 +1576,11 @@ a:focus {
 }
 .tab-content img {
 	max-width: 100%;	
+}
+
+.address-bar{
+    text-align: right;
+    color: #fff;
+    font-size: 17px;
+    margin-top: 6%;
 }
