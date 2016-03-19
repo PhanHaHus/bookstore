@@ -40,6 +40,7 @@ a:focus {
     right: 20px;
     width: 45px;
     z-index: 9999;
+    background-size: contain;
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
