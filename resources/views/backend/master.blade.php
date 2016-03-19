@@ -224,40 +224,6 @@
             </li>
 
             
-            <li class="treeview @yield('danhmuc')">
-              <a href="javascript:void(0)">
-                <i class="fa fa-pencil-square-o"></i> <span>Quản lý danh mục</span>
-                <i class="fa fa-angle-left pull-right"></i>
-              </a>
-              <ul class="treeview-menu">
-                <li class="@yield('them_dm')"><a href="{!! url('admin/category/add') !!}"><i class="fa fa-circle-o"></i> Thêm danh mục</a></li>
-                <li class="@yield('list_dm')"><a href="{!! url('admin/category/list') !!}"><i class="fa fa-circle-o"></i> Danh sách danh mục</a></li>
-              </ul>
-            </li>
-
-            <li class="treeview @yield('sanpham')">
-              <a href="javascript:void(0)">
-                <i class="fa fa-paper-plane-o"></i> <span>Quản lý sản phẩm</span>
-                <i class="fa fa-angle-left pull-right"></i>
-              </a>
-              <ul class="treeview-menu">
-                <li class="@yield('them_sp')"><a href="{!! url('admin/product/add') !!}"><i class="fa fa-circle-o"></i> Thêm sản phẩm</a></li>
-                <li class="@yield('list_sp')"><a href="{!! url('admin/product/list') !!}"><i class="fa fa-circle-o"></i> Danh sách sản phẩm</a></li>
-                <li class="@yield('list_danhgia')"><a href="{!! url('admin/product/listdanhgia') !!}"><i class="fa fa-circle-o"></i> Đánh giá</a></li>
-              </ul>
-            </li>
-            <li class="treeview @yield('hoadon')">
-              <a href="javascript:void(0)">
-                <i class="fa fa-shopping-cart"></i> <span>Quản lý đơn hàng</span>
-                <i class="fa fa-angle-left pull-right"></i>
-              </a>
-              <ul class="treeview-menu">
-                <li class="@yield('list_hd')"><a href="{!! url('admin/cart/list') !!}"><i class="fa fa-circle-o"></i> Danh sách đơn hàng</a></li>
-                <li><a href="{!! url('admin/cart/khuyenmai') !!}"><i class="fa fa-circle-o"></i> Nhập mã khuyến mại</a></li>
-                <li><a href="{!! url('admin/cart/khuyenmai') !!}"><i class="fa fa-circle-o"></i> Danh sách ID khuyến mại</a></li>
-
-              </ul>
-            </li>
             <li class="treeview @yield('tintuc')">
               <a href="javascript:void(0)">
                 <i class="fa fa-navicon"></i> <span>Quản lý bài viết</span>

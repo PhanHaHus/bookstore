@@ -15,8 +15,6 @@
 <link rel="stylesheet" type="text/css" href="{{ url('public/frontend/css/style.css') }}"/>
 <script type="text/javascript" src="{{ url('public/frontend/js/jquery-1.11.3.min.js') }}"></script> 
 <script type="text/javascript"> var base_url = "{{ url('/') }}";</script>
-<script type="text/javascript" src="{{ url('public/frontend/js/ajax_cart.js') }}"></script>
-<script type="text/javascript" src="{{ url('public/frontend/js/danh_gia.js') }}"></script>
 </head>
 <body>
 @include('frontend.blocks.menu-reponsive')
@@ -37,10 +35,7 @@
     @yield('content')
       <!-- end content -->
     <a id="yt-totop" href="#" title="Go to Top" style="display: block;"></a>
-            
-        <!-- end sản phẩm bán chạy-->
         @include('frontend.blocks.sendmail')
-    <!-- end content -->
     <!-- footer -->
        @include('frontend.blocks.footer')
     <!-- end footer -->

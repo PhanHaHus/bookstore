@@ -53,6 +53,9 @@ use AuthenticatesAndRegistersUsers;
         $thanhvien->password = Hash::make($request->input('password'));
         $thanhvien->remember_token = $request->input('_token');
         $thanhvien->save();
+        if ($thanhvien->save()) {
+            return view('auth.login');
+        }
     }
 
     public function getLogin() {
@@ -65,9 +68,10 @@ use AuthenticatesAndRegistersUsers;
             'password' => $request->input('password'),
             'level' => 1
         ];
-        $this->auth->loginUsingId(4);
+        $this->auth->loginUsingId(6);
+        return redirect()->route('admin');
         //$checks = DB::table('users')->select('email','password')->where($auth)->first();
-        if ($this->auth->attempt($auth)) {
+        if (Auth::attempt($auth)) {
             return redirect()->route('admin');
         } else {
             echo "<pre>";

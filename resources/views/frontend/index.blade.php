@@ -6,6 +6,6 @@
 @include('frontend.blocks.banner')
 <!-- end slide --- banner -->
 <!-- san pham mới -->
-@include('frontend.blocks.product_new')
+@include('frontend.blocks.home')
 <!-- end sản phẩm mới -->
 @stop

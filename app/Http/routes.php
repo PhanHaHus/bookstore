@@ -48,6 +48,8 @@ Route::get('thanh-toan', ['as' => 'thanhtoan', 'uses' => 'PageController@thanhto
 Route::post('thanh-toan', ['as' => 'thanhtoan', 'uses' => 'PageController@postthanhtoan']);
 Route::get('danh-gia', ['as' => 'danhgia', 'uses' => 'PageController@danhgia']);
 Route::get('lien-he', ['as' => 'lienhe', 'uses' => 'PageController@lienhe']);
+Route::get('gioi-thieu', ['as' => 'gioithieu', 'uses' => 'PageController@gioithieu']);
+Route::get('thiet-ke', ['as' => 'thietke', 'uses' => 'PageController@thietke']);
 Route::post('lien-he', ['as' => 'lienhe', 'uses' => 'PageController@postlienhe']);
 Route::get('administrator/login', ['as' => 'administrator.login', 'uses' => 'Auth\AuthController@getLogin']);
 Route::post('administrator/login', ['as' => 'administrator.login', 'uses' => 'Auth\AuthController@postLogin']);

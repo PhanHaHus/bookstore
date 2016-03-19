@@ -47,11 +47,20 @@
                     <nav class="header-nav">
                         <ul>
                             <li class="@yield('trangchu')"> <a href="{!! url('/') !!}">Trang chủ </a> </li>
-                            <li> <a href="#">Giới thiệu </a> </li>
-                            <li class="@yield('sanpham')"> <a href="{!! url('san-pham') !!}">Sản phẩm</a>
+                            <li class="@yield('gioithieu')"> <a href="{!! url('gioi-thieu') !!}">Giới thiệu </a> </li>
+                            <li class="@yield('thietke')"> <a href="{!! url('thiet-ke') !!}">THIẾT KẾ <i class="fa fa-caret-down"></i></a> 
+                                <ul>
+                                    <li><a href="#">Thiet ke</a> 
+                                    </li>
+                                    <li><a href="#">Thiet ke</a> 
+                                    </li>
+                                    <li><a href="#">Thiet ke</a> 
+                                    </li>
+                                </ul>
                             </li>
                             <li class="@yield('tintuc')"> <a href="#">Tin tức </a> </li>
                             <li class="@yield('lienhe')"> <a href="{!! url('lien-he') !!}">Liên hệ </a> </li>
+                            <li> <a href="#" title="">Tran Ba</a> </li>
                         </ul>
                     </nav>
                 </div>
