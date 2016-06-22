@@ -232,8 +232,6 @@
               <ul class="treeview-menu">
                 <li class="@yield('them_tt')"><a href="{!! url('admin/tintuc/add') !!}"><i class="fa fa-circle-o"></i> Thêm bài viết</a></li>
                 <li class="@yield('list_tt')"><a href="{!! url('admin/tintuc/list') !!}"><i class="fa fa-circle-o"></i> Danh sách bài viết</a></li>
-                <li><a href="{!! url('admin/catenew/add') !!}"><i class="fa fa-circle-o"></i> Thêm danh mục</a></li>
-              	<li><a href="{!! url('admin/catenew/list') !!}"><i class="fa fa-circle-o"></i> Danh mục bài biết</a></li>
               </ul>
             </li>
             <li class="treeview">

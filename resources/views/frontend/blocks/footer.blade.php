@@ -42,7 +42,7 @@
                 <p><a href="mailto:tranba@gmail.com">tranba@gmail.com</a></p>
               </li>
               <li><i class="fa fa-phone"></i>
-                <p>012345678</p>
+                <p>0906143468</p>
               </li>
             </ul>
           </div>

@@ -1,23 +1,5 @@
 <!-- header -->
 <header id="header" class="">
-    <!-- header top -->
-    <div class="header-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="pull-right">
-                        <nav class="header-top-nav">
-                            <ul>
-                                <li><a href="{!! url('dang-ky') !!}"><i class="fa fa-user"></i> Đăng ký</a></li>
-                                <li><a href="#"><i class="fa fa-sign-out"></i>Đăng nhập</a></li>
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- end header top -->
     <!-- herder bottom -->
     <div class="header-bottom">
         <div class="container">
@@ -29,10 +11,10 @@
                         <span>47 Nguyễn Tuân, Thanh Xuân, Hà Nội</span>
                     </div>
                     <div class="phone-box">
-                        <span>Hotline: 123123123</span>
+                        <span>Hotline: 0906143468</span>
                     </div>
                     <div class="phone-box">
-                        <span>csdasd@goldenseason.vn</span>
+                        <span>tranvanba.k55@hus.com.vn</span>
                     </div>
                 </div>
             </div>

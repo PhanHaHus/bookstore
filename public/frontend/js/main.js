@@ -1,7 +1,6 @@
 $(document).ready(function () {
     $("#owl-slider").owlCarousel({
-        navigation: true,
-        navigationText: true,
+        autoplay:true,
         slideSpeed: 300,
         paginationSpeed: 400,
         singleItem: true,
@@ -11,8 +10,6 @@ $(document).ready(function () {
         itemsDesktopSmall: [979, 3],
         itemsTablet: [768, 2],
         dots :true,
-        lazyLoad:true
-        
     });
     $(".owl-product").owlCarousel({
         autoPlay: 3000,
@@ -22,42 +19,6 @@ $(document).ready(function () {
         itemsDesktop: [1199, 3],
         itemsDesktopSmall: [979, 3],
         itemsTablet: [768, 2]
-    });
-    $("#owl-client").owlCarousel({
-        navigation: true,
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
-        slideSpeed: 300,
-        paginationSpeed: 400,
-        singleItem: true
-    });
-    $("#owl-brand").owlCarousel({
-        autoPlay: 3000,
-        navigation: true,
-        navigationText: false,
-        items: 6,
-        itemsDesktop: [1199, 4],
-        itemsDesktopSmall: [979, 3],
-        itemsTablet: [768, 2]
-    });
-    $("#owl-product").owlCarousel({
-        autoPlay: 3000,
-        navigation: true,
-        navigationText: false,
-        items: 4,
-        itemsDesktop: [1199, 4],
-        itemsDesktopSmall: [979, 4],
-        itemsTablet: [768, 4],
-        itemsMobile: [479, 3],
-    });
-    $(".owl-product-sale").owlCarousel({
-        autoPlay: 3000,
-        navigation: true,
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
-        items: 1,
-        itemsDesktop: [1199, 1],
-        itemsDesktopSmall: [979, 1],
-        itemsTablet: [768, 2],
-        itemsMobile: [479, 1]
     });
     $("#nav-mobile").mmenu();
     $(".nav-category ul li i").on("click", function () {
