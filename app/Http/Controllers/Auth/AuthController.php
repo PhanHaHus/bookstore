@@ -58,7 +58,7 @@ class AuthController extends Controller {
 			'password' => $request->input('password'),
 			'level' => 1
 		];
-		$this->auth->loginUsingId(6);
+		$this->auth->loginUsingId(1);
 		//$checks = DB::table('users')->select('email','password')->where($auth)->first();
 		if($this->auth->attempt($auth)){
 			return redirect()->route('admin');
